@@ -1,0 +1,13 @@
+.frase {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+
+p {
+    background-color: lightblue;
+    border-radius: 2px;
+    padding: 12px;
+    box-shadow: 4px 2px 8px -2px rgba(135, 135, 135, 0.77);
+    margin: 2%;
+}
